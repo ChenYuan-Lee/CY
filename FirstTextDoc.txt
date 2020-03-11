@@ -1,1 +1,2 @@
 My name is Chen Yuan
+This is a new line of text.
